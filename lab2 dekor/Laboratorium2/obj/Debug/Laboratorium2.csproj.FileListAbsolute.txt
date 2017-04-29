@@ -1,0 +1,6 @@
+C:\Users\Wojtek\Desktop\C#\lab2 dekor\Laboratorium2\bin\Debug\Laboratorium2.exe.config
+C:\Users\Wojtek\Desktop\C#\lab2 dekor\Laboratorium2\bin\Debug\Laboratorium2.exe
+C:\Users\Wojtek\Desktop\C#\lab2 dekor\Laboratorium2\bin\Debug\Laboratorium2.pdb
+C:\Users\Wojtek\Desktop\C#\lab2 dekor\Laboratorium2\obj\Debug\Laboratorium2.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\Desktop\C#\lab2 dekor\Laboratorium2\obj\Debug\Laboratorium2.exe
+C:\Users\Wojtek\Desktop\C#\lab2 dekor\Laboratorium2\obj\Debug\Laboratorium2.pdb
